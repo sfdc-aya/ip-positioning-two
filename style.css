@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    width:100%;
+    color:white;
+}
+
+header{
+    background-color:royalblue;
+    padding: 10px 10px;
+}
+nav{
+    background-color:dodgerblue;
+    padding: 10px 10px;
+    height:320px;
+    width:480px;
+}
+article{
+    background-color:grey;
+    padding: 10px 10px;
+    height:320px;
+    width:480px;
+}
+aside{
+    background-color:dodgerblue;
+    padding: 10px 10px;
+    height:320px;
+    width:480px;
+}
+footer{
+    background-color:royalblue;
+    padding: 10px 10px;
+}
+.main{
+    display:flex;
+}
